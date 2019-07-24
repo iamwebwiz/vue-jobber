@@ -1,33 +1,15 @@
 ## Project setup
 
-```
-npm install
-```
+Clone the repository and install dependencies
 
-### Compiles and hot-reloads for development
-
-```
-npm run serve
+```bash
+$ git clone https://github.com/iamwebwiz/vue-jobber.git
+$ cd vue-jobber
+$ npm install
 ```
 
-### Compiles and minifies for production
+Run the project
 
+```bash
+$ npm run serve
 ```
-npm run build
-```
-
-### Run your tests
-
-```
-npm run test
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).

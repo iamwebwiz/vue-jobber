@@ -1,0 +1,23 @@
+[
+  {
+    "jobtitle": "Software Engineer",
+    "joburl": "https://bit.ly/jobURL",
+    "date": "2019-07-24",
+    "companyname": "Airbnb",
+    "jobdescription": "Proficient Software Engineer needed at Airbnb"
+  },
+  {
+    "jobtitle": "Data Scientist",
+    "joburl": "https://bit.ly/jobURL",
+    "date": "2019-07-24",
+    "companyname": "Flickr",
+    "jobdescription": "A data scientist is urgently needed at Flickr"
+  },
+  {
+    "jobtitle": "Senior Devops Engineer",
+    "joburl": "https://bit.ly/jobURL",
+    "date": "2019-07-24",
+    "companyname": "SellSpace",
+    "jobdescription": "A senior devops engineer is needed at SellSpace to assist in our deployment processes"
+  }
+]
