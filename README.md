@@ -1,3 +1,8 @@
+## Tools used
+
+- [Bootstrap](https://getbootstrap.com)
+- [Lorempixel](http://lorempixel.com) (for random image generation)
+
 ## Project setup
 
 Clone the repository and install dependencies
