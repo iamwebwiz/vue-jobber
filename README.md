@@ -1,4 +1,4 @@
-# vue-jobber
+# helputec-frontend
 
 ## Project setup
 ```
